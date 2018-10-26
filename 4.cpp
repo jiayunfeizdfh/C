@@ -6,4 +6,5 @@ main(int argc, char *argv[])
 	     printf("%s%s", argv[i], (i < argc -1) ? " " : "");
 	printf("\n");
 	return 0;
+	
 }
